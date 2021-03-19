@@ -2,7 +2,7 @@
 Various logos designs created and used by various clubs and organizaions.
 <br/>
 <p> Logo created for the Macaulay D&D Guild a club created to create a community for students tp play and explore the game Dunegons and Dragons. </p>
-<img src="https://user-images.githubusercontent.com/70613782/111734460-909e8080-8850-11eb-8649-a3a6e5883f25.png" width="350" height="350"/>
+<img src="https://user-images.githubusercontent.com/70613782/111734460-909e8080-8850-11eb-8649-a3a6e5883f25.png" width="400" height="350"/>
 <br/>
 <p> Winner Logo for the Brooklyn College Computer Science Club in Fall of 2020. Currently the logo used for the club. </p>
 <img src="https://user-images.githubusercontent.com/70613782/111734598-ce9ba480-8850-11eb-8ad7-5c5fa2baa0c1.png" width="350" height="350"/>
